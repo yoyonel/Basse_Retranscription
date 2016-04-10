@@ -6,4 +6,4 @@ Chaque livre/méthode sera dans une branche séparée.
 
 ## Liste des méthodes
 
-- [`HipHop Bass: 101 grooves, riffs, loops, and beats`](/yoyonel/Basse_Retranscription/tree/HipHop)
+- [`HipHop Bass: 101 grooves, riffs, loops, and beats`](https://github.com/yoyonel/Basse_Retranscription/tree/HipHop)
