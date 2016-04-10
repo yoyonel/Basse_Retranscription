@@ -8,5 +8,5 @@ Achat en ligne: [Amazon](http://www.amazon.com/Hip-Hop-Bass-Grooves-Riffs-Builde
 
 ## Patterns/riffs retranscris
 
-- 22
-- 26
+- [22](22)
+- [26](26)
